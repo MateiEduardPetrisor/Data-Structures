@@ -1,0 +1,14 @@
+1 Popescu_Ion 7 ATP POO PAW SDD JAVA ANDROID CTS 7 8 9.5 8.5 6 10 9 1 3 2 4 3
+2 Ileana_Irina 4 Contabilitate Matematica Management Engleza 7.7 8.9 10 5 2 3 1 5 6
+3 Paznicu_Ileana 2 Finante Piete_Financiare 10 8.7 3 3 1 4 7
+4 Popa_Alexandru 3 Informatica Contabilitate Dreptul_Afacerilor 5.9 5.8 9.9 4 4 1 3 7 8
+5 Vlad_Elena 4 Marketing Microeconomie Statistica Design_Estetica 9.7 8.2 6.9 7.3 5 4 2 6 7 8
+6 Anton_Catalin 2 Fizica Chimie 8.3 9.3 1 3 2 5 9
+7 Maria_Oana 1 Bazele_Statisticii 9.4 1 4 3 4 5 8
+8 Baboi_Florin 2 Statistica Engleza 7.3 6.8 1 4 7 4 5 9
+9 Ion_Popescu 3 Baze_De_Date SGBD Macroeconomie 6.8 8.9 9.5 4 2 6 8
+10 Ion_Iulian 1 Economie 9.8 1 1 14
+11 Maria_Iuliana 2 Statistica Management 8.7 6.9 1 1 10
+12 Marian_Popa 3 PSI SIE CTS 5.6 7.8 9.8 1 2 10 11
+13 Popa_Ion 2 BTI SO 8.9 9.1 1 3 10 12 11
+14 Miu_Alin 1 BPC 9.3 1 4 10 13 12 11

@@ -1,0 +1,13 @@
+1 Popescu_Ion 7 ATP POO PAW SDD JAVA ANDROID CTS 7 8 9.5 8.5 6 10 9 1 10
+2 Ileana_Irina 4 Contabilitate Matematica Management Engleza 7.7 8.9 10 5 2 34
+3 Paznicu_Ileana 2 Finante Piete_Financiare 10 8.7 3 1
+4 Popa_Alexandru 3 Informatica Contabilitate Dreptul_Afacerilor 5.9 5.8 9.9 4 14
+5 Vlad_Elena 4 Marketing Microeconomie Statistica Design_Estetica 9.7 8.2 6.9 7.3 5 9
+6 Anton_Catalin 2 Fizica Chimie 8.3 9.3 6 7
+7 Mircea_Ion 1 ATP 10 1 11
+8 Olteanu_Marius 2 SDD ATP 5 8 1 16
+9 Miu_Irina 2 PAW SDD 10 8 1 17
+10 Popa_Miruna 2 Matematica Statistica 10 10 2 19
+11 Matesica_Cristian 3 Matematica Statistica Economie 10 8 7.5 3 3
+12 Andreti_Cosmin 2 Sociologie Marketing 10 8.7 13
+13 Mihai_Adriana 3 Economie Marketing Statistica 10 7.5 6.7 4 5
