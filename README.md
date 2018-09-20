@@ -16,6 +16,7 @@ Data Structures
  - Stiva_Final - Stack
  - Vector_Final - Array
  - Vector_Liste_Final - Array Of Lists
+ - Matrice_Final - Matrix
 
 All project contains:
  - a text file with student's details;
